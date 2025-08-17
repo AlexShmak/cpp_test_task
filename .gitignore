@@ -39,3 +39,12 @@
 
 # debug information files
 *.dwo
+
+# Neovim LSP
+.clangd
+
+# Testing
+Testing
+
+# Build
+build
